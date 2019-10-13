@@ -64,3 +64,8 @@ The kind of algorithm that has some kind of data set (index and attribute and ha
  ` need for disciplined and automated optimization methods` 
 
 ---
+
+### Evaluation
+1) simple method: Split the dataset into the training-set and test-set (e.g., 70%, 30%) 
+2) Other more complex methods: roblem: We cannot be 100 % sure about an evaluation estimate on a sub-sample of data:
+   Solution:Test the statistical significance of the results
