@@ -1,7 +1,16 @@
 # machine-learning-review
 some elementary notes about machine learning
 
-# Types Of Learning 
+## Machine learning Design cycle:
+ 1. Data  
+ 2. Feature selection   
+ 3. Model Selection  
+ 4. learning  
+ 5. Ecaluation  
+ 
+Model=algorithm(implemented with a program)
+
+# Types Of Learning  algorithm
 
 -----
 ## Supervised Learning Vs Unsupervised Learning vs Reinforcment learning 
