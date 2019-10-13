@@ -1,8 +1,9 @@
 # machine-learning-review
 some elementary notes about machine learning
 
-
 # Types Of Learning 
+
+-----
 ## Supervised Learning Vs Unsupervised Learning vs Reinforcment learning 
 
 ### Supervised learning:
@@ -20,7 +21,8 @@ The kind of algorithm that has some kind of data set (index and attribute and ha
   
  **Probability estimators:**
   * Naive Bayes  
-  
+----
+
 ### UnSupervised learning: 
  Unsupervised model does not have any label sample so it check the input behaviour and shape and cluster input to diferent output. 
 
@@ -28,3 +30,18 @@ The kind of algorithm that has some kind of data set (index and attribute and ha
  * Convolutional Neural Network(semi-supervised)
  * Rule Learning (Apriri,FPGrows)
  * Clustring()
+----
+
+>>>
+### Reinforment learninh
+  a kinf of learning that system learn from different things based on penalties and rewards.
+  **Algoritm for reinforcment learning**
+   * Q-learning
+   * Genetic algorithms
+ ----   
+  ------
+ 
+ 
+ 
+  `Learning optimization problem The idea is to learn a function that minimizes an error or one that maximizes reward over    penalty.`
+  
