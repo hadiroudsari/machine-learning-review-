@@ -23,3 +23,8 @@ The kind of algorithm that has some kind of data set (index and attribute and ha
   
 ### UnSupervised learning: 
  Unsupervised model does not have any label sample so it check the input behaviour and shape and cluster input to diferent output. 
+
+### Algorithm:  
+ * Convolutional Neural Network(semi-supervised)
+ * Rule Learning (Apriri,FPGrows)
+ * Clustring()
