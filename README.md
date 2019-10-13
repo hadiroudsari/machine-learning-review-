@@ -1,4 +1,4 @@
-# machine-learning-review-
+# machine-learning-review
 some elementary notes about machine learning
 
 
@@ -9,4 +9,4 @@ some elementary notes about machine learning
 The kind of algorithm that has some kind of data set (index and attribute and has the lable for those attribute). for any entry data this algorithm check the attribute of new unlable data with the attribute of labled data, and if these two are match together it will lable the new data. 
 
 ### UnSupervised learning: 
- an unsupervised model 
+ Unsupervised model does not have any label sample so it check the input behaviour and shape and cluster input to diferent output. 
