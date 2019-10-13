@@ -43,5 +43,8 @@ The kind of algorithm that has some kind of data set (index and attribute and ha
  
  
  
-  `Learning optimization problem The idea is to learn a function that minimizes an error or one that maximizes reward over    penalty.`
+  `Learning: optimization problem The idea is to learn a function that minimizes an error or one that maximizes reward over    penalty.`  
+   Given a selected model, during the learning phase, several model ***hyper-parameters*** need to be optimized.  
+   
+***Hyper-parameter** is a parameter whose value must be set before the learning process begins. For example, the maximum depth of a decision tree, the number of hidden layers in a neural network, the type of kernel function in SVM, the type of similarity function in clustering, etc.
   
