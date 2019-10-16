@@ -81,12 +81,7 @@ every ***node*** is a test on the value of one feature. For each possible outcom
 leaf nodes are ***decision***  concerning to the value of classification. 
 
  **Top-Down Decision Tree Induction**  recursicly build a tree top-down by divide and conquer.
-    ex   <big,red,circle>: +    <small, red, circle>: + 
-       <small,red,square>: −    <big, blue, circle>:  −                
-    make node with color  
-    @-----------------------@<big, red, circle>: +       
-   color       red           <small, red, circle>: +
-                             <small, red, square>: − 
+ 
                        
                           
  
