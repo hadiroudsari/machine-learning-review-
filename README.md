@@ -80,7 +80,9 @@ Decision Trees is a popular discrete classifiers
 every ***node*** is a test on the value of one feature. For each possible outcome of the test an arrow is created that links to subsequent test node or to a leaf node.
 leaf nodes are ***decision***  concerning to the value of classification. 
 
- **Top-Down Decision Tree Induction**  recursicly build a tree top-down by divide and conquer.
+ **Top-Down Decision Tree Induction**  recursicly build a tree top-down by divide and conquer.  
+ 
+ At each step,  we aim to find the ***best split*** of our data. What is a good split? One which reduces the uncertainty of   classification for “some” split!
  
                        
                           
