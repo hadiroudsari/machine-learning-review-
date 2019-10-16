@@ -76,3 +76,17 @@ The kind of algorithm that has some kind of data set (index and attribute and ha
 ----
 
 Decision Trees is a popular discrete classifiers 
+
+every ***node*** is a test on the value of one feature. For each possible outcome of the test an arrow is created that links to subsequent test node or to a leaf node.
+leaf nodes are ***decision***  concerning to the value of classification. 
+
+ **Top-Down Decision Tree Induction**  recursicly build a tree top-down by divide and conquer.
+    ex   <big,red,circle>: +    <small, red, circle>: + 
+       <small,red,square>: −    <big, blue, circle>:  −                
+    make node with color  
+    @-----------------------@<big, red, circle>: +       
+   color       red           <small, red, circle>: +
+                             <small, red, square>: − 
+                       
+                          
+ 
