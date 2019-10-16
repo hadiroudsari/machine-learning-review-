@@ -84,6 +84,7 @@ leaf nodes are ***decision***  concerning to the value of classification.
  
  At each step,  we aim to find the ***best split*** of our data. What is a good split? One which reduces the uncertainty of   classification for “some” split!
  
+ > The process ends when we can output decisions (= the class labels),
                        
                           
  
