@@ -93,5 +93,7 @@ leaf nodes are ***decision***  concerning to the value of classification.
 measures how well a given attribute separates the training examples according to
     their target classification. 
     
-----                      
+----       
+The formula below represent the ***entropy***:  
+<img class="ho tq gn n o gm ag gk" width="391" height="91" role="presentation" src="https://miro.medium.com/max/391/1*nNY_7_aWRwp8E2DyGduEPg.png">
  
