@@ -1,4 +1,5 @@
-# machine-learning-review
+
+# machine-learning-review(from mitchellmachine learning book and prof velardi power point slies)
 some elementary notes about machine learning
 
 ## Machine learning Design cycle:
@@ -86,5 +87,10 @@ leaf nodes are ***decision***  concerning to the value of classification.
  
  > The process ends when we can output decisions (= the class labels),
                        
-                          
+----
+  
+  **Which Attribute Is the Best Classifier?** how well a given attribute separates the training examples according to
+    their target classification. 
+    
+----                      
  
