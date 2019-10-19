@@ -89,7 +89,8 @@ leaf nodes are ***decision***  concerning to the value of classification.
                        
 ----
   
-  **Which Attribute Is the Best Classifier?** how well a given attribute separates the training examples according to
+  **Which Attribute Is the Best Classifier?** statistical property, called ***informution gain***, that
+measures how well a given attribute separates the training examples according to
     their target classification. 
     
 ----                      
