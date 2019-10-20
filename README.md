@@ -96,4 +96,10 @@ measures how well a given attribute separates the training examples according to
 ----       
 The formula below represent the ***entropy***:  
 <img class="ho tq gn n o gm ag gk" width="391" height="91" role="presentation" src="https://miro.medium.com/max/391/1*nNY_7_aWRwp8E2DyGduEPg.png">
+
+----
+  Information Gain:
+  
+  <img class="ho qc gn n o gm ag gk" width="507" height="60" role="presentation" src="https://miro.medium.com/max/1307/0*08CaHVjPCgs_fZyp">
+
  
