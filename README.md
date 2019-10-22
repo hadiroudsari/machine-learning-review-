@@ -102,4 +102,10 @@ The formula below represent the ***entropy***:
   
   <img class="ho qc gn n o gm ag gk" width="507" height="60" role="presentation" src="https://miro.medium.com/max/1307/0*08CaHVjPCgs_fZyp">
 
+
+ example of information gain page 35 dtree:
+  
+>  information gain from outlook = (intial entropy)  -   (  (weight of sunny) * (sunny entropy) + (weight of overcast) * (overcast entropy) + (weight of Rainy) * (Rainy entropy)  )   
+  
+
  
