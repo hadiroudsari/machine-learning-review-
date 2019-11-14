@@ -137,7 +137,10 @@ print(tokens)
                           
 
 
+-----------------------------------------------------------
 
-
+#### Normalization: Scaling & Centering  
+  Since the range of values of raw data varies widely, in some machine learning algorithms, objective functions will not work properly without normalization.
+  both scaling and centering have  formula.
 
  
