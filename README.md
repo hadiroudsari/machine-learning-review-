@@ -125,12 +125,16 @@ nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 tokens = word_tokenize("The quick brown fox jumps over the lazy dog")
 print(tokens)
-
 ```
-     
-     
-#### Step 2:     
+---
 
+     
+#### step 2: Feature Extraction     
+* Bag of Words(Term Frequency-Inverse Document Frequency (TF-IDF) technique.)
+* Word Embedding(Word2Vec,Glove)   
+
+#### Step 3: Choosing ML Algorithms
+                          
 
 
 
