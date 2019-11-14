@@ -1,5 +1,6 @@
 
-# machine-learning-review(from mitchellmachine learning book and prof velardi power point slies)
+# machine-learning-review(from mitchellmachine learning book and prof velardi power point slies
+https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958 )
 some elementary notes about machine learning
 
 ## Machine learning Design cycle:
@@ -107,5 +108,32 @@ The formula below represent the ***entropy***:
   
 >  information gain from outlook = (intial entropy)  -   (  (weight of sunny) * (sunny entropy) + (weight of overcast) * (overcast entropy) + (weight of Rainy) * (Rainy entropy)  )   
   
+------------------------------------------------------------
+  
+## Feature Engineering
+### Feature extraction 
+#### Step 1: Data Preprocessing
+   * Tokenization
+   * Removing unnecessary punctuation, tags
+   * Removing stop words — frequent words such as ”the”, ”is”, etc. that do not have specific semantic
+   * Stemming — words are reduced to a root by removing inflection through dropping unnecessary characters, usually a       suffix
+   * Stemming — words are reduced to a root by removing inflection through dropping unnecessary characters, usually a suffix.
+   * Lemmatization — Another approach to remove inflection by determining the part of speech and utilizing detailed database of the language.
+```python
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import word_tokenize
+tokens = word_tokenize("The quick brown fox jumps over the lazy dog")
+print(tokens)
+
+```
+     
+     
+#### Step 2:     
+
+
+
+
+
 
  
