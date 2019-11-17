@@ -149,3 +149,10 @@ print(tokens)
 ## Evaluation   
 
 > Basically if we want to focus more on minimising False Negatives, we would want our Recall to be as close to 100% as possible without precision being too bad and if we want to focus on minimising False positives, then our focus should be to make Precision as close to 100% as possible([link](https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)).
+
+
+<img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/931/1*5XuZ_86Rfce3qyLt7XMlhw.png">  
+  
+  <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/1250/1*KhlD7Js9leo0B0zfsIfAIA.png">  
+    <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/1349/1*a8hkMGVHg3fl4kDmSIDY_A.png"> 
+    
