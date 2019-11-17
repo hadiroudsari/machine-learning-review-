@@ -154,5 +154,12 @@ print(tokens)
 <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/931/1*5XuZ_86Rfce3qyLt7XMlhw.png">  
   
   <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/1250/1*KhlD7Js9leo0B0zfsIfAIA.png">  
-    <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/1349/1*a8hkMGVHg3fl4kDmSIDY_A.png"> 
+    <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/1349/1*a8hkMGVHg3fl4kDmSIDY_A.png">   
+    <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/742/1*deegiX75imQsVXYVpG_SDQ.png">     
     
+F1 Score:
+We don’t really want to carry both Precision and Recall in our pockets every time we make a model for solving a classification problem. So it’s best if we can get a single score that kind of represents both Precision(P) and Recall(R).
+One way to do that is simply taking their arithmetic mean. i.e (P + R) / 2  
+<img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/550/1*W2CxvU7m8R6cB_oz2U3ouA.png">
+
+F1 Score = 2 * Precision * Recall / (Precision + Recall)
