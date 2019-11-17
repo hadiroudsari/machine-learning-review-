@@ -144,3 +144,8 @@ print(tokens)
   both scaling and centering have  formula.
 
  
+----
+
+## Evaluation   
+
+> Basically if we want to focus more on minimising False Negatives, we would want our Recall to be as close to 100% as possible without precision being too bad and if we want to focus on minimising False positives, then our focus should be to make Precision as close to 100% as possible([link](https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)).
