@@ -172,4 +172,6 @@ FPR=FP/(FP+TN)
   Precision-Recall Curve
   
    https://techcrunch.com/2018/11/06/3-ways-to-avoid-bias-in-machine-learning/ 
+   
+   reduce the variance? K-Fold Cross-Validation
     
