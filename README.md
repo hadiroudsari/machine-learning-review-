@@ -163,3 +163,6 @@ One way to do that is simply taking their arithmetic mean. i.e (P + R) / 2
 <img class="ho qc gn n o gm ag gk" width="507" height="507" role="presentation" src="https://miro.medium.com/max/550/1*W2CxvU7m8R6cB_oz2U3ouA.png">
 
 F1 Score = 2 * Precision * Recall / (Precision + Recall)
+
+TPR=recall  
+FPR=FP/(FP+TN)
