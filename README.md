@@ -166,3 +166,10 @@ F1 Score = 2 * Precision * Recall / (Precision + Recall)
 
 TPR=recall  
 FPR=FP/(FP+TN)
+  
+  ROC Curve  
+  Area Under the ROC (AUROC or AUC)   
+  Precision-Recall Curve
+  
+    
+    
