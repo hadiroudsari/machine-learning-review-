@@ -171,5 +171,5 @@ FPR=FP/(FP+TN)
   Area Under the ROC (AUROC or AUC)   
   Precision-Recall Curve
   
-    
+   https://techcrunch.com/2018/11/06/3-ways-to-avoid-bias-in-machine-learning/ 
     
